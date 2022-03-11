@@ -3,9 +3,13 @@ body {
     flex-direction: column;
 }
 
+.heading {
+    background-color: #1f2937;
+}
+
 .header {
-    color: #1f2937;
     display: flex;
+    justify-content: space-between;
 }
 
 ul {
@@ -14,4 +18,5 @@ ul {
     font-size: 18px;
     color: #e5e7eb;
     display: flex;
+    align-items: center;
 }
