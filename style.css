@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    color: #1f2937;
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+}
