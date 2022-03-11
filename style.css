@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    margin: 0px;
 }
 
 .heading {
@@ -10,6 +11,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    height: 125px;
 }
 
 ul {
@@ -19,4 +21,10 @@ ul {
     color: #e5e7eb;
     display: flex;
     align-items: center;
+    padding: 20px 40px;
+
+}
+
+li {
+    padding: 12px;
 }
