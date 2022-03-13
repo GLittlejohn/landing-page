@@ -31,3 +31,18 @@ a {
     color: #e5e7eb;
     text-decoration: none;
 }
+
+h3 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+p {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+button {
+    color: #3882f6;
+}
