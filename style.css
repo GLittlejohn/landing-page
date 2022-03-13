@@ -63,6 +63,11 @@ button {
     flex-direction: column;
     justify-content: center;
     width: 450px;
-    height: 250px;
-    
+    height: 250px
+}
+
+.sunset {
+    display: flex;
+    margin: 24px;
+    height: 300px;
 }
