@@ -47,8 +47,9 @@ p {
 
 button {
     background-color: #3882f6;
-    padding: 4px 10px;
+    padding: 6px 14px;
     border: 1px solid #3882f6;
+    width: 90px;
 }
 
 .subheading {
@@ -58,5 +59,10 @@ button {
 }
 
 .sub-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 450px;
+    height: 250px;
+    
 }
