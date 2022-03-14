@@ -68,6 +68,8 @@ button {
 
 .sunset {
     display: flex;
-    margin: 24px;
+    margin-left: auto;
+    margin-top: 24px;
+    padding-right: 40px;
     height: 300px;
 }
