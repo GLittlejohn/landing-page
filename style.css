@@ -78,6 +78,7 @@ button {
 .content {
     background-color: #f9faf8;
     text-align: center;
+    padding-bottom: 25px;
 }
 
 .qsection {
