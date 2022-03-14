@@ -130,3 +130,11 @@ button {
     padding-top: 8px;
     padding-bottom: 50px;
 }
+
+.signup {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    border: 2px solid #3882f6;
+}
