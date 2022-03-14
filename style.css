@@ -84,6 +84,7 @@ button {
 .qsection {
     background-color: #e5e7eb;
     display: flex;
+    flex-direction: column;
 }
 
 .info {
@@ -115,4 +116,8 @@ button {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+    display: flex;
+    width: 700px;
+    align-self: center;
+    padding-top: 50px;
 }
