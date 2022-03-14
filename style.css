@@ -74,3 +74,13 @@ button {
     padding-right: 40px;
     height: 325px;
 }
+
+.content {
+    background-color: #f9faf8;
+    display: flex;
+}
+
+.qsection {
+    background-color: #e5e7eb;
+    display: flex;
+}
